@@ -1,0 +1,14 @@
+# Ignore Unity temporary and generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+[Ll]ogs/
+
+# Ignore IDE and OS-specific files
+.vscode/
+*.csproj
+*.sln
+.DS_Store
+*.meta
+*.userprefs
