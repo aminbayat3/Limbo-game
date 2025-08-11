@@ -35,14 +35,6 @@ You play as a boy who has lost his way home — the only way back is to solve a 
 
 ---
 
-## 🌐 Play the Game
-
-You can play **Luminance** directly in your browser:  
-**[▶ Play Luminance Online](#)**  
-*(Replace `#` with your hosted game URL, e.g., itch.io, GitHub Pages, or your own site)*
-
----
-
 ## 📦 Local Development & Build
 
 If you want to run or modify the game locally:
