@@ -46,4 +46,3 @@ If you want to run or modify the game locally:
 ### 2️⃣ Clone the repository
 ```bash
 git clone https://github.com/yourusername/luminance.git
-cd luminance
